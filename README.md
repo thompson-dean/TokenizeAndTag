@@ -42,4 +42,4 @@ In terms of UI, it was really fun to add an expandable animated button.
 
 | Screenshots| 
 |:--:|
-|<img src="https://github.com/thompson-dean/100-Days-of-SwiftUI/blob/main/01_Project1/screenshots/screen01.png" width=30% height=30%> |
+|<img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen01.png" width=20% height=20%> <img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen02.png" width=20% height=20%><img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen03.png" width=20% height=20%>|
