@@ -42,4 +42,4 @@ In terms of UI, it was really fun to add an expandable animated button.
 
 | Screenshots| 
 |:--:|
-|<img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen01.png" width=20% height=20%> <img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen02.png" width=20% height=20%><img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen03.png" width=20% height=20%>|
+|<img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen01.png" width=25% height=25%> <img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen02.png" width=25% height=25%><img src="https://github.com/thompson-dean/TokenizeAndTag/blob/main/TokenizeAndTag/screenshots/screen03.png" width=25% height=25%>|
